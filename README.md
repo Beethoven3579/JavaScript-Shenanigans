@@ -1,0 +1,2 @@
+# JavaScript-Shenanigans
+Learning Javascript
